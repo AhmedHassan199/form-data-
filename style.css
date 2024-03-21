@@ -1,0 +1,13 @@
+.main-form{
+    background-color: brown;
+}
+.sub-form{
+    background-color: rgb(216, 127, 24);
+    margin-bottom: 20px;
+}
+.main-header{
+    background-color: aquamarine;
+}
+.sub-header{
+    background-color: rgb(195, 127, 255);
+}
